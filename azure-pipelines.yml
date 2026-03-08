@@ -16,4 +16,4 @@ steps:
     echo "Docker login successful"
     docker info
   displayName: Verify Docker login
-#node docker install
+#node docker install and run docker as root and .svc at backend 
