@@ -16,3 +16,4 @@ steps:
     echo "Docker login successful"
     docker info
   displayName: Verify Docker login
+#node docker install
